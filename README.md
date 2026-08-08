@@ -41,6 +41,6 @@
 </div>
 
 <h3 align="left">GitHub Stats</h3>
-<p align="left">
+<p align="middle">
   <img src="https://streak-stats.demolab.com/?user=stevenliem7&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily" alt="GitHub streak Card">
 </p>
